@@ -1,0 +1,13 @@
+syntax: glob
+db/
+dbd/
+O.Common/
+O.linux-x86_64/
+bin/
+*.orig
+*.swp
+envPaths
+as/req/info_*
+as/save/
+records.dbl
+

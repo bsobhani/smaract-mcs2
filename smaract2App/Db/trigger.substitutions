@@ -1,0 +1,10 @@
+file "db/trigger.db"
+{
+pattern
+{P,	M,	PORT,	ADDR,	DESC,	DTYP}
+{"alexHost:",	"smaract2", "T0", 0, "X", asynMotor}
+{"alexHost:",	"smaract2-ax2", "T1", 1, "Y", asynMotor}
+{"alexHost:",	"smaract2-ax3", "T2", 2, "Z", asynMotor}
+
+
+}

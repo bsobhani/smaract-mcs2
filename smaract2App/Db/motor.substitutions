@@ -1,0 +1,13 @@
+file "db/motor.db"
+{
+pattern
+{P,	M,	MOTOR,	PORT,	ADDR,	DESC,	DTYP, PREC}
+{"alexHost:",	"smaract2", "mot", "P0", 0, "X", asynMotor, 6}
+{"alexHost:",	"smaract2-ax2", "mot", "P0", 1, "Y", asynMotor, 6}
+{"alexHost:",	"smaract2-ax3", "mot", "P0", 2, "Z", asynMotor, 6}
+{"alexHost:",	"smaract2-ax4", "mot", "P0", 3, "A", asynMotor, 6}
+{"alexHost:",	"smaract2-ax5", "mot", "P0", 4, "B", asynMotor, 6}
+#{"alexHost:",	"smaract2-ax6", "mot", "P0", 5, "C", asynMotor, 6}
+
+
+}
