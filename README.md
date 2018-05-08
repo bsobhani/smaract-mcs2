@@ -1,6 +1,12 @@
 # smaract-mcs2
 IOC for SmarAct MCS2 controller
 
+Notes
+-------
+* In order for the IOC to work, it needs the MCS2 version of the motor record: https://github.com/bsobhani/motor-mcs2
+* The SmarAct MCS2 SDK needs to be installed
+
+
 License
 -------
 
