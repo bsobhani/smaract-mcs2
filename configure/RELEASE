@@ -27,7 +27,7 @@ TEMPLATE_TOP=$(EPICS_BASE)/templates/makeBaseApp/top
 
 #ASYN=/usr/lib/epics
 #MOTOR=/epics/iocs/motor-mcs2
-MOTOR=/home/alex/hg/motor-mcs2
+MOTOR=/home/alex/git/motor-mcs2
 
 # EPICS_BASE usually appears last so other apps can override stuff:
 EPICS_BASE=/usr/lib/epics
