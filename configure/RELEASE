@@ -23,9 +23,9 @@ TEMPLATE_TOP=$(EPICS_BASE)/templates/makeBaseApp/top
 
 # If using the sequencer, point SNCSEQ at its top directory:
 #SNCSEQ=$(EPICS_BASE)/../modules/soft/seq
-#AUTOSAVE=/usr/lib/epics
+AUTOSAVE=/usr/lib/epics
 
-#ASYN=/usr/lib/epics
+ASYN=/usr/lib/epics
 #MOTOR=/epics/iocs/motor-mcs2
 MOTOR=/home/alex/git/motor-mcs2
 
